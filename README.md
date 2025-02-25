@@ -6,5 +6,5 @@ NAME: VEERAMALLU SAILUSHA
 *MENTOR: VAISHALI
 #This project focuses on building a machine learning model (regression or classification) to predict outcomes based on a given dataset. The objective is to apply data preprocessing, feature selection, model training, and evaluation to derive actionable insights.
 OUTPUT:
-[Image](https://github.com/user-attachment s/assets/870a78dd-3233-4105-89ab -51a64cf37e81)
-2025-02 22 From 1000 Notes
+![Image](https://github.com/user-attachments/assets/27446000-a1e1-4d62-b950-ec1a270f23d1)
+![Image](https://github.com/user-attachments/assets/1f992d8d-6bac-437f-b60e-fc35132d9b54)
